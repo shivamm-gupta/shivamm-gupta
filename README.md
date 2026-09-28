@@ -36,7 +36,7 @@
 I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, **Generative AI Systems**, and **High-Performance Distributed Backends**. My work bridges cutting-edge deep learning research with robust, cost-effective enterprise infrastructure.
 
 - 🏢 **Current Role**: Software Engineer at **Kizora Software**, engineering high-concurrency AI data platforms, automated multi-agent pipelines (**n8n**, **OpenAI APIs**), and financial reconciliation engines.
-- ⚡ **Open Source**: Author & architect of **`dynavec`**, a serverless hybrid vector database combining Amazon S3 Vectors and DynamoDB that cuts vector infrastructure costs by up to **99.5%** ($3/mo vs $701/mo baseline).
+- ⚡ **Open Source**: Maintainer of **`dynavec`**, a serverless hybrid vector database combining Amazon S3 Vectors and DynamoDB that cuts vector infrastructure costs by up to **99.5%** ($3/mo vs $701/mo baseline).
 - 📑 **Published Research**: Authored **2 peer-reviewed research papers** in international journals spanning Computer Vision (YOLOv5, 98.48% acc) and Natural Language Processing (Bi-LSTM, 91% acc).
 - 🧠 **Agentic AI & Tooling**: Active contributor to **`palinode`** (MCP-first agent memory substrate) and **`phantomswap`** (Web3 MCP server).
 - 🏆 **Algorithmic Problem Solving**: Solved **700+ problems on LeetCode** and ranked **3rd at college level** on GeeksForGeeks (2200+ score).
