@@ -3,7 +3,7 @@
 # Hi there, I'm Shivam Gupta 👋
 ### AI Engineer & Systems Builder • Generative AI • High-Throughput Distributed Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+GenAI+Systems+Builder+%F0%9F%A4%96;Author+of+dynavec+%E2%80%94+Serverless+Vector+DB+%E2%9A%A1;2x+Published+Deep+Learning+Researcher+%F0%9F%93%91;Microsoft+Certified%3A+Azure+AI+Developer+%F0%9F%8E%96%EF%B8%8F;700%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+GenAI+Systems+Builder+%F0%9F%A4%96;Core+Contributor+to+dynavec+%E2%9A%A1;2x+Published+Deep+Learning+Researcher+%F0%9F%93%91;Microsoft+Certified%3A+Azure+AI+Apps+and+Agents+Developer+Associate;700%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://ai-engineer-portfolio-orcin.vercel.app/">
@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-shivambadrigupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/shivamgupta-0886/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification" />
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Apps_and_Agents_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/shivamgupta-3127/5F3AFDAFE6F3EC5?sharingId=EC1598768E09CCF">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-MLOps_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Machine Learning Operations Engineer Associate" />
   </a>
   <a href="https://leetcode.com/shivamguptacoder">
     <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -36,7 +39,7 @@
 I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, **Generative AI Systems**, and **High-Performance Distributed Backends**. My work bridges cutting-edge deep learning research with robust, cost-effective enterprise infrastructure.
 
 - 🏢 **Current Role**: Software Engineer at **Kizora Software**, engineering high-concurrency AI data platforms, automated multi-agent pipelines (**n8n**, **OpenAI APIs**), and financial reconciliation engines.
-- ⚡ **Open Source**: Maintainer of **`dynavec`**, a serverless hybrid vector database combining Amazon S3 Vectors and DynamoDB that cuts vector infrastructure costs by up to **99.5%** ($3/mo vs $701/mo baseline).
+- ⚡ **Open Source**: Core contributor to **`dynavec`**, a serverless hybrid vector database combining Amazon S3 Vectors and DynamoDB; authored **8 merged contributions** across retrieval, CLI tooling, caching and storage reliability.
 - 📑 **Published Research**: Authored **2 peer-reviewed research papers** in international journals spanning Computer Vision (YOLOv5, 98.48% acc) and Natural Language Processing (Bi-LSTM, 91% acc).
 - 🧠 **Agentic AI & Tooling**: Active contributor to **`palinode`** (MCP-first agent memory substrate) and **`phantomswap`** (Web3 MCP server).
 - 🏆 **Algorithmic Problem Solving**: Solved **700+ problems on LeetCode** and ranked **3rd at college level** on GeeksForGeeks (2200+ score).
@@ -49,11 +52,11 @@ I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, 
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        ⚡ <a href="https://github.com/shivamm-gupta/dynavec">dynavec</a>
+        ⚡ <a href="https://github.com/codeforstartups/dynavec">dynavec</a>
       </h3>
       <p><b>Serverless Hybrid Vector Database on DynamoDB + Amazon S3 Vectors</b></p>
       <ul>
-        <li>Fuses serverless AWS primitives into a high-performance vector DB client with <b>zero idle compute costs</b> (~$3/mo vs $701/mo on OpenSearch Serverless).</li>
+        <li>Core contributor to a vector DB client combining <b>Amazon S3 Vectors</b> and <b>DynamoDB</b>; authored <b>8 merged contributions</b>.</li>
         <li>Built-in <b>GraphStore</b> (single-table Property Graph for GraphRAG), <b>Semantic Caching</b> with Product Quantization, and <b>MMR / RRF reranking</b>.</li>
         <li>First-class <b>Model Context Protocol (MCP)</b> ingestion, plus native <b>LangChain</b> and <b>LlamaIndex</b> vector store adapters.</li>
       </ul>
@@ -72,7 +75,7 @@ I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, 
       <p><b>The Memory Substrate for AI Agents & Developer Tools</b></p>
       <ul>
         <li>Git-versioned, file-native, and MCP-first memory engine for autonomous AI coding agents.</li>
-        <li>Eliminates hallucination loops and context loss by providing persistent, structured agent recall across sessions.</li>
+        <li>Provides persistent, structured agent recall across sessions.</li>
         <li>Built for modular integration with Claude, Copilot, and custom agentic frameworks.</li>
       </ul>
       <p>
@@ -91,7 +94,7 @@ I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, 
       <p><b>Edge Computer Vision & Driver Safety System</b></p>
       <ul>
         <li><b>Published in IJNGC</b> (<a href="https://doi.org/10.47164/ijngc.v14i1.992">DOI: 10.47164/ijngc.v14i1.992</a>).</li>
-        <li>Custom-trained YOLOv5 on <b>6,066 custom labeled images</b>, achieving <b>98.48% accuracy</b>, <b>0.979 mAP@0.5</b> at <b>30 FPS</b> real-time inference.</li>
+        <li>Custom-trained YOLOv5 on <b>6,066 custom labeled images</b>, achieving <b>98.48% accuracy</b>, <b>0.979 mAP@0.5</b>.</li>
         <li>Integrated companion <b>Chrome Extension</b> for live student and driver attention monitoring with graduated audio alerts.</li>
       </ul>
       <p>
@@ -214,10 +217,7 @@ I am a **Software Engineer** specializing in **Intelligent Agentic Workflows**, 
 ### 🎖️ Certifications & Honors
 
 - 🏆 **Microsoft Certified: Azure AI Apps and Agents Developer Associate** — [Verify Credential](https://learn.microsoft.com/en-us/users/shivamgupta-0886/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab)
-- 🧠 **DeepLearning.AI**: Generative AI with Large Language Models & Prompt Engineering for Developers
-- 🤖 **OpenAI**: Building AI Agents & Workflows
-- ⚡ **Anthropic**: Claude 101 Architecture & Prompt Systems
-- ☁️ **KodeKloud**: AWS Cloud Architecture & Infrastructure Basics
+- 🏆 **Microsoft Certified: Machine Learning Operations Engineer Associate** — [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/shivamgupta-3127/5F3AFDAFE6F3EC5?sharingId=EC1598768E09CCF)
 - 🧩 **LeetCode**: 700+ Problems Solved ([@shivamguptacoder](https://leetcode.com/shivamguptacoder))
 - 🥇 **GeeksForGeeks**: Rank 3rd College Level, 2200+ Score ([@shivambadrigupta](https://www.geeksforgeeks.org/user/shivambadrigupta/))
 
