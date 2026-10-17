@@ -26,10 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamm-gupta&label=Profile%20Views&color=00c7ff&style=flat-square" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
