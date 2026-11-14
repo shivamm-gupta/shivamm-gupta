@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+GenAI+Systems+Builder+%F0%9F%A4%96;Core+Contributor+to+dynavec+%E2%9A%A1;2x+Published+Deep+Learning+Researcher+%F0%9F%93%91;Microsoft+Certified%3A+Azure+AI+Apps+and+Agents+Developer+Associate;700%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://ai-engineer-portfolio-orcin.vercel.app/">
+  <a href="https://shivam-engineer-portfolio.vercel.app/ai-ml">
     <img src="https://img.shields.io/badge/Portfolio-ai--engineer--portfolio-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/shivambadrigupta/">
